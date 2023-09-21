@@ -7,4 +7,4 @@ python3 -m venv env
 source env/bin/activate
 
 # Start App
-python3 app.py
+gunicorn -b 0.0.0.0:5000 app:app
