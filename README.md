@@ -11,6 +11,8 @@ GodAI is a simple OpenAI wrapper that emulates talking to God
 ### Dependencies
 
 * Python
+* Pip
+* Venv
 * OpenAI
 * Flask
 * Gunicorn
