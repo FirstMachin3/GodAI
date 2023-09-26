@@ -1,4 +1,4 @@
-# Project Title
+# GodAI
 
 <p align="center">
   <img src="./preview.gif">
