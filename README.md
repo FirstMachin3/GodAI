@@ -1,7 +1,8 @@
 # GodAI
 <p align="center">
-  <img src="./static/favicon.png">
+  <img src="/static/favicon.png" width="50" height="50" alt="Favicon">
 </p>
+
 <p align="center">
   <img src="./preview.gif">
 </p>
